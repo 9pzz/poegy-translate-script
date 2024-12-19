@@ -1674,8 +1674,23 @@ localStorage.setItem(
       label: "비고정",
       entries: [
         {
+          id: "explicit.stat_3299347043",
+          text: "생명력 최대치 #",
+          type: "explicit",
+        },
+        {
           id: "explicit.stat_1050105434",
           text: "마나 최대치 #",
+          type: "explicit",
+        },
+        {
+          id: "explicit.stat_3372524247",
+          text: "[Resistances|화염] 저항 #%",
+          type: "explicit",
+        },
+        {
+          id: "explicit.stat_4220027924",
+          text: "[Resistances|냉기] 저항 #%",
           type: "explicit",
         },
         {
@@ -1684,8 +1699,24 @@ localStorage.setItem(
           type: "explicit",
         },
         {
-          id: "explicit.stat_4220027924",
-          text: "[Resistances|냉기] 저항 #%",
+          id: "explicit.stat_2923486259",
+          text: "[Resistances|카오스] 저항 #%",
+          type: "explicit",
+        },
+        {
+          id: "explicit.stat_2901986750",
+          text: "모든 [ElementalDamage|원소] 저항 #%",
+          type: "explicit",
+        },
+        {
+          id: "explicit.stat_4080418644",
+          text: "[Strength|힘] #",
+          type: "explicit",
+        },
+
+        {
+          id: "explicit.stat_3261801346",
+          text: "[Dexterity|민첩] #",
           type: "explicit",
         },
         {
@@ -1711,11 +1742,6 @@ localStorage.setItem(
         {
           id: "explicit.stat_4052037485",
           text: "[EnergyShield|에너지 보호막] 최대치 #",
-          type: "explicit",
-        },
-        {
-          id: "explicit.stat_4080418644",
-          text: "[Strength|힘] #",
           type: "explicit",
         },
         {
@@ -1751,11 +1777,6 @@ localStorage.setItem(
         {
           id: "explicit.stat_1062208444",
           text: "[Armour|방어도] #% 증가",
-          type: "explicit",
-        },
-        {
-          id: "explicit.stat_3261801346",
-          text: "[Dexterity|민첩] #",
           type: "explicit",
         },
         {
@@ -1859,11 +1880,6 @@ localStorage.setItem(
           type: "explicit",
         },
         {
-          id: "explicit.stat_2923486259",
-          text: "[Resistances|카오스] 저항 #%",
-          type: "explicit",
-        },
-        {
           id: "explicit.stat_387439868",
           text: "[Attack|공격] 스킬의 [ElementalDamage|원소] 피해 #% 증가",
           type: "explicit",
@@ -1881,11 +1897,6 @@ localStorage.setItem(
         {
           id: "explicit.stat_2250533757",
           text: "이동 속도 #% 증가",
-          type: "explicit",
-        },
-        {
-          id: "explicit.stat_2901986750",
-          text: "모든 [ElementalDamage|원소] 저항 #%",
           type: "explicit",
         },
         {
@@ -2081,11 +2092,6 @@ localStorage.setItem(
         {
           id: "explicit.stat_2797971005",
           text: "플레이어의 공격으로 명중하는 적 하나당 획득하는 생명력 #",
-          type: "explicit",
-        },
-        {
-          id: "explicit.stat_3372524247",
-          text: "[Resistances|화염] 저항 #%",
           type: "explicit",
         },
         {
@@ -4996,11 +5002,6 @@ localStorage.setItem(
         {
           id: "explicit.stat_2082207021",
           text: "[Intelligence|지능] 5당 [Attack|공격]의 효과 범위 #% 증가",
-          type: "explicit",
-        },
-        {
-          id: "explicit.stat_3299347043",
-          text: "생명력 최대치 #",
           type: "explicit",
         },
         {
